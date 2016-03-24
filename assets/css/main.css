@@ -551,8 +551,8 @@ body.home-intro .intro {
   position: relative;
   padding: 0 2em;
   text-align: center;
-  color: #ff8e2a /* #d9d9d9; */
-  background: #434343; /* #33b15d; */
+  color: #d9d9d9;
+  background: #33b15d;
   overflow: hidden;
 }
 
