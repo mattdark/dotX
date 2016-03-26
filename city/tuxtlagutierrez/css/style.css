@@ -47,19 +47,19 @@ label:before {
 }
 
 label[for*='1']:before {
-  content: '\f1cb';
+  content: '\f0a1';
 }
 
 label[for*='2']:before {
-  content: '\f17d';
+  content: '\f121';
 }
 
 label[for*='3']:before {
-  content: '\f16b';
+  content: '\f0c0';
 }
 
 label[for*='4']:before {
-  content: '\f1a9';
+  content: '\f1cd';
 }
 
 label:hover {
