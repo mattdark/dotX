@@ -15,6 +15,9 @@
     font-weight: bold;
     text-align: center;
   }
+.group
+  {display: table-row-group;
+  }
 .Row
   {
     display: table-row;
