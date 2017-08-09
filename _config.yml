@@ -22,8 +22,8 @@ description: "A free Jekyll theme for download"
 keywords: "Jekyll, theme, free, download, SEO, blog, web"
 
 # Site settings
-url: http://mattdark.github.io
-baseurl: "/flisol"
+url: http://mattdark.github.io/flisol
+baseurl: "/"
 # baseurl: ""
 
 # Author settings
